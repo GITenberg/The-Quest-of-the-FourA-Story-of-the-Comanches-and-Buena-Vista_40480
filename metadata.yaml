@@ -1,0 +1,31 @@
+_repo: The-Quest-of-the-FourA-Story-of-the-Comanches-and-Buena-Vista_40480
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40480-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Altsheler, Joseph A. (Joseph Alexander)
+    aliases:
+    - Altsheler, Joseph Alexander
+    - Altsheler, J. A. (Joseph Alexander)
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '2561'
+    url: http://www.gutenberg.org/2009/agents/2561
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
+description: ''
+gutenberg_issued: '2012-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comanche Indians -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: 'The Quest of the Four: A Story of the Comanches and Buena Vista'
+url: http://www.gutenberg.org/ebooks/40480
